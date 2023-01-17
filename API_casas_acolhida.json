@@ -1,0 +1,82 @@
+{
+    "nome": "casa-1",
+    "endereco": "Rua Adoniran Barbosa | 151 | Bela Vista | São Paulo | SP | 01318-020",
+    "telefone": "",
+    "e-mail": "assistenciasocial@casaum.org",
+    "servicos_prestados": {
+        "acolhimento": "LGBTQIA+",
+        "atividades": "",
+        "": "",
+        "": ""
+    },
+    "nome": "casa-chama",
+    "endereco": "Rua do Carmo | 54 | Sala 303 | Sé | São Paulo | SP | 01019-020",
+    "telefone": "+55 11 9.9448-2641",
+    "e-mail": "casachama440@gmail.com",
+    "serviços_prestados": {
+        "acolhimento": "LGBTQIA+",
+        "atividades": "",
+        "": "",
+        "": ""
+    },
+    "nome": "casa-florescer-1",
+    "endereco": "Rua Prates | 1101 | Bom Retiro | São Paulo | SP | 01121-000",
+    "telefone": "+55 11 3228-0502",
+    "e-mail": "cadiversidade@gmail.com",
+    "serviços_prestados": {
+        "acolhimento": "LGBTQIA+",
+        "atividades": "",
+        "": "",
+        "": ""
+    },
+    "nome": "casa-florescer-2",
+    "endereco": "R. Capricho | 872 | Vila Nivi | São Paulo | SP | 02254-000",
+    "telefone": "+55 11 2337-8459",
+    "e-mail": "casachama440@gmail.com",
+    "serviços_prestados": {
+        "acolhimento": "LGBTQIA+",
+        "atividades": "",
+        "": "",
+        "": ""
+    },
+    "nome": "Centro de Cidadania LGBT Claudia Wonder - Zona Oeste",
+    "endereco": "",
+    "telefone": "",
+    "e-mail": "",
+    "serviços_prestados": {
+        "acolhimento": "LGBTQIA+",
+        "atividades": "",
+        "": "",
+        "": ""
+    },
+    "nome": "Centro de Cidadania LGBT Laura Vermont - Zona Leste",
+    "endereco": "",
+    "telefone": "",
+    "e-mail": "",
+    "serviços_prestados": {
+        "acolhimento": "LGBTQIA+",
+        "atividades": "",
+        "": "",
+        "": ""
+    },
+    "nome": "Centro de Cidadania LGBT Luana Barbosa dos Reis - Zona Norte",
+    "endereco": "",
+    "telefone": "",
+    "e-mail": "",
+    "serviços_prestados": {
+        "acolhimento": "LGBTQIA+",
+        "atividades": "",
+        "": "",
+        "": ""
+    },
+    "nome": "Centro de Cidadania LGBT Edson Neris - Zona Sul",
+    "endereco": "",
+    "telefone": "",
+    "e-mail": "",
+    "serviços_prestados": {
+        "acolhimento": "LGBTQIA+",
+        "atividades": "",
+        "": "",
+        "": ""
+    }
+}
