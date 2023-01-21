@@ -1,82 +1,101 @@
 {
-    "nome": "casa-1",
-    "endereco": "Rua Adoniran Barbosa | 151 | Bela Vista | São Paulo | SP | 01318-020",
+    "nome": "casa 1",
+    "endereco": "Rua Adoniran Barbosa 151 Bela Vista São Paulo SP 01318020",
     "telefone": "",
     "e-mail": "assistenciasocial@casaum.org",
     "servicos_prestados": {
-        "acolhimento": "LGBTQIA+",
-        "atividades": "",
-        "": "",
-        "": ""
+        "público-alvo": "LGBTQIA+",
+        "acolhimento": "sim",
+        "atividades": ""
     },
-    "nome": "casa-chama",
-    "endereco": "Rua do Carmo | 54 | Sala 303 | Sé | São Paulo | SP | 01019-020",
+    "nome": "casa chama",
+    "endereco": "Rua do Carmo 54 Sala 303 Sé São Paulo SP 01019020",
     "telefone": "+55 11 9.9448-2641",
     "e-mail": "casachama440@gmail.com",
     "serviços_prestados": {
-        "acolhimento": "LGBTQIA+",
-        "atividades": "",
-        "": "",
-        "": ""
+        "público-alvo": "LGBTQIA+",
+        "acolhimento": "sim",
+        "atividades": ""
     },
-    "nome": "casa-florescer-1",
-    "endereco": "Rua Prates | 1101 | Bom Retiro | São Paulo | SP | 01121-000",
+    "nome": "casa florescer 1 - Centro de Acolhida Especial (CAE)",
+    "endereco": "Rua Prates 1101 Bom Retiro São Paulo SP 01121000",
     "telefone": "+55 11 3228-0502",
     "e-mail": "cadiversidade@gmail.com",
     "serviços_prestados": {
-        "acolhimento": "LGBTQIA+",
-        "atividades": "",
-        "": "",
-        "": ""
+        "público-alvo": "LGBTQIA+, Mulheres Transexuais",
+        "acolhimento": "sim",
+        "atividades": ""
     },
-    "nome": "casa-florescer-2",
-    "endereco": "R. Capricho | 872 | Vila Nivi | São Paulo | SP | 02254-000",
+    "nome": "casa florescer 2 - Centro de Acolhida Especial (CAE)",
+    "endereco": "Rua Capricho 872 Vila Nivi São Paulo SP 02254000",
     "telefone": "+55 11 2337-8459",
     "e-mail": "casachama440@gmail.com",
     "serviços_prestados": {
-        "acolhimento": "LGBTQIA+",
-        "atividades": "",
-        "": "",
-        "": ""
+        "público-alvo": "LGBTQIA+, Mulheres Transexuais",
+        "acolhimento": "sim",
+        "atividades": ""
+    },
+    "nome": "Casa de Acolhida João Nery - Centro de Acolhida Especial (CAE)",
+    "endereco": "Rua Carlos Escobar 86 Santana São Paulo SP 02013050",
+    "telefone": "+55 11 2528-7405",
+    "e-mail": "",
+    "serviços_prestados": {
+        "público-alvo": "LGBTQIA+, Homens Transexuais",
+        "acolhimento": "sim",
+        "atividades": ""
+    },
+    "nome": "Casarão Brasil - Centro de Acolhida Especial (CAE) ",
+    "endereco": "Rua Igará Paraná 94 Vila Emir São Paulo SP 04461100",
+    "telefone": "+55 11 2935-0037",
+    "e-mail": "contato@casaraobrasil.org.br",
+    "serviços_prestados": {
+        "público-alvo": "LGBTQIA+, Mulheres transexuais",
+        "acolhimento": "sim",
+        "atividades": "Assistência social, saúde, educação e trabalhos voltado para o fortalecimento e auto-estima"
     },
     "nome": "Centro de Cidadania LGBT Claudia Wonder - Zona Oeste",
-    "endereco": "",
-    "telefone": "",
-    "e-mail": "",
+    "endereco": "Av. Ricardo Medina Filho 603 Vila Ipojuca São Paulo SP 05057100",
+    "telefone": "+55 11 3832-7507",
+    "e-mail": "centrolgbtoeste@prefeitura.sp.gov.br",
     "serviços_prestados": {
-        "acolhimento": "LGBTQIA+",
-        "atividades": "",
-        "": "",
-        "": ""
+        "público-alvo": "LGBTQIA+",
+        "acolhimento": "",
+        "atividades": "Assistência jurídica, psicológica e social. Acompanhamento para realização de boletins de ocorrência e demais orientações, mediação de conflitos, palestras e sensibilização de servidores. Realização de debates, palestras e seminários."
     },
     "nome": "Centro de Cidadania LGBT Laura Vermont - Zona Leste",
-    "endereco": "",
-    "telefone": "",
-    "e-mail": "",
+    "endereco": "Av. Nordestina 504 Vila Americana São Paulo SP 08011000",
+    "telefone": "+55 11 2032-3737",
+    "e-mail": "centrolgbtleste@prefeitura.sp.gov.br",
     "serviços_prestados": {
-        "acolhimento": "LGBTQIA+",
-        "atividades": "",
-        "": "",
-        "": ""
+        "público-alvo": "LGBTQIA+",
+        "acolhimento": "",
+        "atividades": "Assistência jurídica, psicológica e social. Acompanhamento para realização de boletins de ocorrência e demais orientações, mediação de conflitos, palestras e sensibilização de servidores. Realização de debates, palestras e seminários."
     },
     "nome": "Centro de Cidadania LGBT Luana Barbosa dos Reis - Zona Norte",
-    "endereco": "",
-    "telefone": "",
-    "e-mail": "",
+    "endereco": "Rua Baroré 43 Casa Verde São Paulo SP 02515020",
+    "telefone": "+55 11 3951-1090",
+    "e-mail": "centrolgbtnorte@prefeitura.sp.gov.br",
     "serviços_prestados": {
-        "acolhimento": "LGBTQIA+",
-        "atividades": "",
-        "": "",
-        "": ""
+        "público-alvo": "LGBTQIA+",
+        "acolhimento": "",
+        "atividades": "Assistência jurídica, psicológica e social. Acompanhamento para realização de boletins de ocorrência e demais orientações, mediação de conflitos, palestras e sensibilização de servidores. Realização de debates, palestras e seminários."
     },
     "nome": "Centro de Cidadania LGBT Edson Neris - Zona Sul",
-    "endereco": "",
-    "telefone": "",
-    "e-mail": "",
+    "endereco": "Rua Conde de Itu 673 Santo Amaro São Paulo SP 04736001",
+    "telefone": "+55 11 5523-0413 +55 11 5523-2772",
+    "e-mail": "centrolgbtsul@prefeitura.sp.gov.br",
     "serviços_prestados": {
-        "acolhimento": "LGBTQIA+",
-        "atividades": "",
-        "": "",
-        "": ""
+        "público-alvo": "LGBTQIA+",
+        "acolhimento": "",
+        "atividades": "Assistência jurídica, psicológica e social. Acompanhamento para realização de boletins de ocorrência e demais orientações, mediação de conflitos, palestras e sensibilização de servidores. Realização de debates, palestras e seminários."
+    },
+    "nome": "Centro de Referência e Defesa da Diversidade Brunna Valin - CRD",
+    "endereco": " Rua Major Sertório 292 República São Paulo SP 01222000",
+    "telefone": "+55 11 3151-5786 +55 11 3151-5783",
+    "e-mail": "crdbrunavalin@prefeitura.sp.gov.br",
+    "serviços_prestados": {
+        "público-alvo": "LGBTQIA+",
+        "acolhimento": "",
+        "atividades": "Assistência jurídica, psicológica e social. Acompanhamento para realização de boletins de ocorrência e demais orientações, mediação de conflitos, palestras e sensibilização de servidores. Realização de debates, palestras e seminários."
     }
 }
