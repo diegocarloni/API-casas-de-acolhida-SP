@@ -160,5 +160,59 @@
         "público-alvo": "Mulheres",
         "acolhimento": "",
         "atividades": ""
+    },
+    "nome": "Casa da Mulher Brasileira - São Paulo",
+    "endereco": "Rua Vieira Ravasco 26 Cambuci São Paulo SP 01518030",
+    "telefone": "+55 11 3275-8000",
+    "e-mail": "",
+    "serviços_prestados": {
+        "público-alvo": "Mulheres",
+        "acolhimento": "",
+        "atividades": ""
+    },
+    "nome": "Centro de Referência da mulher - Casa Eliane de Grammont - CRM",
+    "endereco": "Rua Dr. Bacelar 20 Vila Clementino São Paulo SP 04026000",
+    "telefone": "+55 11 5549-9339",
+    "e-mail": "",
+    "serviços_prestados": {
+        "público-alvo": "Mulheres",
+        "acolhimento": "",
+        "atividades": ""
+    },
+    "nome": "Centro de Referência da mulher - Casa Brasilândia - CRM",
+    "endereco": "Rua Sílvio Bueno Peruche 538 Jardim Ondina São Paulo SP 02871050",
+    "telefone": "+55 11 3983-4294",
+    "e-mail": "",
+    "serviços_prestados": {
+        "público-alvo": "Mulheres",
+        "acolhimento": "",
+        "atividades": ""
+    },
+    "nome": "Centro de Referência da mulher - Casa 25 de Março - CRM",
+    "endereco": "Rua Líbero Badaró 137 4º andar Centro São Paulo SP 01003010",
+    "telefone": "+55 11 3106-1100",
+    "e-mail": "",
+    "serviços_prestados": {
+        "público-alvo": "Mulheres",
+        "acolhimento": "",
+        "atividades": ""
+    },
+    "nome": "Centro de Referência da mulher - Casa Maria de Lourdes Rodrigues - CRM",
+    "endereco": "Rua Luís da Fonseca Galvão 145 Parque Maria Helena São Paulo SP 05855300",
+    "telefone": "+55 11 5524-4782",
+    "e-mail": "",
+    "serviços_prestados": {
+        "público-alvo": "Mulheres",
+        "acolhimento": "",
+        "atividades": ""
+    },
+    "nome": "Casa da mulher paulistana",
+    "endereco": "Rua João Amós Comenius 1217 Jardim São Bernardo São Paulo SP 04844420",
+    "telefone": "+55 11 96375-0795",
+    "e-mail": "",
+    "serviços_prestados": {
+        "público-alvo": "Mulheres",
+        "acolhimento": "",
+        "atividades": ""
     }
 }
