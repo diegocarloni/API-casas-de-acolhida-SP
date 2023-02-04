@@ -97,5 +97,68 @@
         "público-alvo": "LGBTQIA+",
         "acolhimento": "",
         "atividades": "Assistência jurídica, psicológica e social. Acompanhamento para realização de boletins de ocorrência e demais orientações, mediação de conflitos, palestras e sensibilização de servidores. Realização de debates, palestras e seminários."
+    },
+    "nome": "Centro de Acolhida Especial Brigadeiro - CAE",
+    "endereco": "Avenida Brigadeiro Luís Antônio 1645 Bela Vista São Paulo SP 01317002",
+    "telefone": "+55 11 3251-0402 +55 11 3262-0765",
+    "e-mail": "",
+    "serviços_prestados": {
+        "público-alvo": "Mulheres",
+        "acolhimento": "",
+        "atividades": ""
+    },
+    "nome": "Casa de Apoio Maria Maria",
+    "endereco": "Rua Comendador Nestor Pereira 77 Canindé São Paulo SP 03034070",
+    "telefone": "+55 11 3313-6067 +55 11 3313-4920",
+    "e-mail": "",
+    "serviços_prestados": {
+        "público-alvo": "Mulheres",
+        "acolhimento": "",
+        "atividades": ""
+    },
+    "nome": "Casa de Apoio Marta e Maria",
+    "endereco": "Rua Catumbi 427 Belém São Paulo SP 03020055",
+    "telefone": "+55 11 2692-4416",
+    "e-mail": "",
+    "serviços_prestados": {
+        "público-alvo": "Mulheres",
+        "acolhimento": "",
+        "atividades": ""
+    },
+    "nome": "Centro de Acolhida Especial Nova Esperança - Vila Prudente II - CAE",
+    "endereco": "Praça Conde de São Januário 55 Vila California São Paulo SP 03215080",
+    "telefone": "+55 11 2272-2950",
+    "e-mail": "",
+    "serviços_prestados": {
+        "público-alvo": "Mulheres",
+        "acolhimento": "",
+        "atividades": ""
+    },
+    "nome": "Centro de Acolhida Especial Ermelino Matarazzo - CAE",
+    "endereco": "Rua Utrecht 99 Vila Rio Branco São Paulo SP 03878000",
+    "telefone": "",
+    "e-mail": "",
+    "serviços_prestados": {
+        "público-alvo": "Mulheres",
+        "acolhimento": "",
+        "atividades": ""
+    },
+    "nome": "Centro de Acolhida Especial Esperança - CAE",
+    "endereco": "Rua Antônio Camacho 41 São Miguel São Paulo SP 08010430",
+    "telefone": "+55 11 2037-0420 +55 11 2033-1231",
+    "e-mail": "",
+    "serviços_prestados": {
+        "público-alvo": "Mulheres",
+        "acolhimento": "",
+        "atividades": ""
+    },
+    "nome": "Centro de Acolhida Especial Santo Amaro - CAE",
+    "endereco": "Rua Carmo do Rio Verde 553 Jardim Caravelas São Paulo SP 04729010",
+    "telefone": "+55 11 5523-8546",
+    "e-mail": "",
+    "serviços_prestados": {
+        "público-alvo": "Mulheres",
+        "acolhimento": "",
+        "atividades": ""
     }
 }
