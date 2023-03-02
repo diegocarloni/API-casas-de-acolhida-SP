@@ -12,7 +12,7 @@
     "endereco": "Rua do Carmo 54 Sala 303 Sé São Paulo SP 01019020",
     "telefone": "+55 11 9.9448-2641",
     "e-mail": "casachama440@gmail.com",
-    "serviços_prestados": {
+    "servicos_prestados": {
         "público-alvo": "LGBTQIA+",
         "acolhimento": "sim",
         "atividades": ""
@@ -21,7 +21,7 @@
     "endereco": "Rua Prates 1101 Bom Retiro São Paulo SP 01121000",
     "telefone": "+55 11 3228-0502",
     "e-mail": "cadiversidade@gmail.com",
-    "serviços_prestados": {
+    "servicos_prestados": {
         "público-alvo": "LGBTQIA+, Mulheres Transexuais",
         "acolhimento": "sim",
         "atividades": ""
@@ -30,7 +30,7 @@
     "endereco": "Rua Capricho 872 Vila Nivi São Paulo SP 02254000",
     "telefone": "+55 11 2337-8459",
     "e-mail": "casachama440@gmail.com",
-    "serviços_prestados": {
+    "servicos_prestados": {
         "público-alvo": "LGBTQIA+, Mulheres Transexuais",
         "acolhimento": "sim",
         "atividades": ""
@@ -39,7 +39,7 @@
     "endereco": "Rua Carlos Escobar 86 Santana São Paulo SP 02013050",
     "telefone": "+55 11 2528-7405",
     "e-mail": "",
-    "serviços_prestados": {
+    "servicos_prestados": {
         "público-alvo": "LGBTQIA+, Homens Transexuais",
         "acolhimento": "sim",
         "atividades": ""
@@ -48,61 +48,61 @@
     "endereco": "Rua Igará Paraná 94 Vila Emir São Paulo SP 04461100",
     "telefone": "+55 11 2935-0037",
     "e-mail": "contato@casaraobrasil.org.br",
-    "serviços_prestados": {
+    "servicos_prestados": {
         "público-alvo": "LGBTQIA+, Mulheres transexuais",
         "acolhimento": "sim",
-        "atividades": "Assistência social, saúde, educação e trabalhos voltado para o fortalecimento e auto-estima"
+        "atividades": "Assistência social, saúde, educacão e trabalho voltado para o fortalecimento e auto-estima"
     },
     "nome": "Centro de Cidadania LGBT Claudia Wonder - Zona Oeste",
     "endereco": "Av. Ricardo Medina Filho 603 Vila Ipojuca São Paulo SP 05057100",
     "telefone": "+55 11 3832-7507",
     "e-mail": "centrolgbtoeste@prefeitura.sp.gov.br",
-    "serviços_prestados": {
+    "servicos_prestados": {
         "público-alvo": "LGBTQIA+",
         "acolhimento": "",
-        "atividades": "Assistência jurídica, psicológica e social. Acompanhamento para realização de boletins de ocorrência e demais orientações, mediação de conflitos, palestras e sensibilização de servidores. Realização de debates, palestras e seminários."
+        "atividades": "Assistência jurídica, psicológica e social. Acompanhamento para realizacão de boletins de ocorrência e demais orientacões, mediacão de conflitos, palestras e sensibilizacão de servidores. Realizacão de debates, palestras e seminários."
     },
     "nome": "Centro de Cidadania LGBT Laura Vermont - Zona Leste",
     "endereco": "Av. Nordestina 504 Vila Americana São Paulo SP 08011000",
     "telefone": "+55 11 2032-3737",
     "e-mail": "centrolgbtleste@prefeitura.sp.gov.br",
-    "serviços_prestados": {
+    "servicos_prestados": {
         "público-alvo": "LGBTQIA+",
         "acolhimento": "",
-        "atividades": "Assistência jurídica, psicológica e social. Acompanhamento para realização de boletins de ocorrência e demais orientações, mediação de conflitos, palestras e sensibilização de servidores. Realização de debates, palestras e seminários."
+        "atividades": "Assistência jurídica, psicológica e social. Acompanhamento para realizacão de boletins de ocorrência e demais orientacões, mediacão de conflitos, palestras e sensibilizacão de servidores. Realizacão de debates, palestras e seminários."
     },
     "nome": "Centro de Cidadania LGBT Luana Barbosa dos Reis - Zona Norte",
     "endereco": "Rua Baroré 43 Casa Verde São Paulo SP 02515020",
     "telefone": "+55 11 3951-1090",
     "e-mail": "centrolgbtnorte@prefeitura.sp.gov.br",
-    "serviços_prestados": {
+    "servicos_prestados": {
         "público-alvo": "LGBTQIA+",
         "acolhimento": "",
-        "atividades": "Assistência jurídica, psicológica e social. Acompanhamento para realização de boletins de ocorrência e demais orientações, mediação de conflitos, palestras e sensibilização de servidores. Realização de debates, palestras e seminários."
+        "atividades": "Assistência jurídica, psicológica e social. Acompanhamento para realizacão de boletins de ocorrência e demais orientacões, mediacão de conflitos, palestras e sensibilizacão de servidores. Realizacão de debates, palestras e seminários."
     },
     "nome": "Centro de Cidadania LGBT Edson Neris - Zona Sul",
     "endereco": "Rua Conde de Itu 673 Santo Amaro São Paulo SP 04736001",
     "telefone": "+55 11 5523-0413 +55 11 5523-2772",
     "e-mail": "centrolgbtsul@prefeitura.sp.gov.br",
-    "serviços_prestados": {
+    "servicos_prestados": {
         "público-alvo": "LGBTQIA+",
         "acolhimento": "",
-        "atividades": "Assistência jurídica, psicológica e social. Acompanhamento para realização de boletins de ocorrência e demais orientações, mediação de conflitos, palestras e sensibilização de servidores. Realização de debates, palestras e seminários."
+        "atividades": "Assistência jurídica, psicológica e social. Acompanhamento para realizacão de boletins de ocorrência e demais orientacões, mediacão de conflitos, palestras e sensibilizacão de servidores. Realizacão de debates, palestras e seminários."
     },
     "nome": "Centro de Referência e Defesa da Diversidade Brunna Valin - CRD",
     "endereco": " Rua Major Sertório 292 República São Paulo SP 01222000",
     "telefone": "+55 11 3151-5786 +55 11 3151-5783",
     "e-mail": "crdbrunavalin@prefeitura.sp.gov.br",
-    "serviços_prestados": {
+    "servicos_prestados": {
         "público-alvo": "LGBTQIA+",
         "acolhimento": "",
-        "atividades": "Assistência jurídica, psicológica e social. Acompanhamento para realização de boletins de ocorrência e demais orientações, mediação de conflitos, palestras e sensibilização de servidores. Realização de debates, palestras e seminários."
+        "atividades": "Assistência jurídica, psicológica e social. Acompanhamento para realizacão de boletins de ocorrência e demais orientacões, mediacão de conflitos, palestras e sensibilizacão de servidores. Realizacão de debates, palestras e seminários."
     },
     "nome": "Centro de Acolhida Especial Brigadeiro - CAE",
     "endereco": "Avenida Brigadeiro Luís Antônio 1645 Bela Vista São Paulo SP 01317002",
     "telefone": "+55 11 3251-0402 +55 11 3262-0765",
     "e-mail": "",
-    "serviços_prestados": {
+    "servicos_prestados": {
         "público-alvo": "Mulheres",
         "acolhimento": "",
         "atividades": ""
@@ -111,7 +111,7 @@
     "endereco": "Rua Comendador Nestor Pereira 77 Canindé São Paulo SP 03034070",
     "telefone": "+55 11 3313-6067 +55 11 3313-4920",
     "e-mail": "",
-    "serviços_prestados": {
+    "servicos_prestados": {
         "público-alvo": "Mulheres",
         "acolhimento": "",
         "atividades": ""
@@ -120,16 +120,16 @@
     "endereco": "Rua Catumbi 427 Belém São Paulo SP 03020055",
     "telefone": "+55 11 2692-4416",
     "e-mail": "",
-    "serviços_prestados": {
+    "servicos_prestados": {
         "público-alvo": "Mulheres",
         "acolhimento": "",
         "atividades": ""
     },
-    "nome": "Centro de Acolhida Especial Nova Esperança - Vila Prudente II - CAE",
-    "endereco": "Praça Conde de São Januário 55 Vila California São Paulo SP 03215080",
+    "nome": "Centro de Acolhida Especial Nova Esperanca - Vila Prudente II - CAE",
+    "endereco": "Praca Conde de São Januário 55 Vila California São Paulo SP 03215080",
     "telefone": "+55 11 2272-2950",
     "e-mail": "",
-    "serviços_prestados": {
+    "servicos_prestados": {
         "público-alvo": "Mulheres",
         "acolhimento": "",
         "atividades": ""
@@ -138,16 +138,16 @@
     "endereco": "Rua Utrecht 99 Vila Rio Branco São Paulo SP 03878000",
     "telefone": "",
     "e-mail": "",
-    "serviços_prestados": {
+    "servicos_prestados": {
         "público-alvo": "Mulheres",
         "acolhimento": "",
         "atividades": ""
     },
-    "nome": "Centro de Acolhida Especial Esperança - CAE",
+    "nome": "Centro de Acolhida Especial Esperanca - CAE",
     "endereco": "Rua Antônio Camacho 41 São Miguel São Paulo SP 08010430",
     "telefone": "+55 11 2037-0420 +55 11 2033-1231",
     "e-mail": "",
-    "serviços_prestados": {
+    "servicos_prestados": {
         "público-alvo": "Mulheres",
         "acolhimento": "",
         "atividades": ""
@@ -156,7 +156,7 @@
     "endereco": "Rua Carmo do Rio Verde 553 Jardim Caravelas São Paulo SP 04729010",
     "telefone": "+55 11 5523-8546",
     "e-mail": "",
-    "serviços_prestados": {
+    "servicos_prestados": {
         "público-alvo": "Mulheres",
         "acolhimento": "",
         "atividades": ""
@@ -165,7 +165,7 @@
     "endereco": "Rua Vieira Ravasco 26 Cambuci São Paulo SP 01518030",
     "telefone": "+55 11 3275-8000",
     "e-mail": "",
-    "serviços_prestados": {
+    "servicos_prestados": {
         "público-alvo": "Mulheres",
         "acolhimento": "",
         "atividades": ""
@@ -174,7 +174,7 @@
     "endereco": "Rua Dr. Bacelar 20 Vila Clementino São Paulo SP 04026000",
     "telefone": "+55 11 5549-9339",
     "e-mail": "",
-    "serviços_prestados": {
+    "servicos_prestados": {
         "público-alvo": "Mulheres",
         "acolhimento": "",
         "atividades": ""
@@ -183,16 +183,16 @@
     "endereco": "Rua Sílvio Bueno Peruche 538 Jardim Ondina São Paulo SP 02871050",
     "telefone": "+55 11 3983-4294",
     "e-mail": "",
-    "serviços_prestados": {
+    "servicos_prestados": {
         "público-alvo": "Mulheres",
         "acolhimento": "",
         "atividades": ""
     },
-    "nome": "Centro de Referência da mulher - Casa 25 de Março - CRM",
+    "nome": "Centro de Referência da mulher - Casa 25 de Marco - CRM",
     "endereco": "Rua Líbero Badaró 137 4º andar Centro São Paulo SP 01003010",
     "telefone": "+55 11 3106-1100",
     "e-mail": "",
-    "serviços_prestados": {
+    "servicos_prestados": {
         "público-alvo": "Mulheres",
         "acolhimento": "",
         "atividades": ""
@@ -201,7 +201,7 @@
     "endereco": "Rua Luís da Fonseca Galvão 145 Parque Maria Helena São Paulo SP 05855300",
     "telefone": "+55 11 5524-4782",
     "e-mail": "",
-    "serviços_prestados": {
+    "servicos_prestados": {
         "público-alvo": "Mulheres",
         "acolhimento": "",
         "atividades": ""
@@ -210,9 +210,99 @@
     "endereco": "Rua João Amós Comenius 1217 Jardim São Bernardo São Paulo SP 04844420",
     "telefone": "+55 11 96375-0795",
     "e-mail": "",
-    "serviços_prestados": {
+    "servicos_prestados": {
         "público-alvo": "Mulheres",
         "acolhimento": "",
         "atividades": ""
+    },
+    "nome": "1ª Delegacia de Defesa da Mulher - DDM Centro",
+    "endereco": "Rua Vieira Ravasco 26 Cambuci São Paulo SP 01518030",
+    "telefone": "+55 11 3275-8000",
+    "e-mail": "",
+    "servicos_prestados": {
+        "público-alvo": "Mulheres",
+        "acolhimento": "não",
+        "atividades": "Registro de B.O., investigação e acompanhamento de casos de violência contra a mulher."
+    },
+    "nome": "2ª Delegacia de Defesa da Mulher - DDM Sul",
+    "endereco": "Avenida Onze de Junho 89 Vila Clementino São Paulo SP 04041050",
+    "telefone": "+55 11 5084-2579",
+    "e-mail": "",
+    "servicos_prestados": {
+        "público-alvo": "Mulheres",
+        "acolhimento": "não",
+        "atividades": "Registro de B.O., investigação e acompanhamento de casos de violência contra a mulher."
+    },
+    "nome": "3ª Delegacia de Defesa da Mulher - DDM Oeste",
+    "endereco": "Avenida Corifeu de Azevedo Marques 4300 2° andar Vila Lageado São Paulo SP 05339002",
+    "telefone": "+55 11 3768-4664",
+    "e-mail": "",
+    "servicos_prestados": {
+        "público-alvo": "Mulheres",
+        "acolhimento": "não",
+        "atividades": "Registro de B.O., investigação e acompanhamento de casos de violência contra a mulher."
+    },
+    "nome": "4ª Delegacia de Defesa da Mulher - DDM Norte",
+    "endereco": "Avenida Itaberaba 731 fundos Feguesia do Ó São Paulo SP 02734000",
+    "telefone": "+55 11 3976-2908 +55 11 3975-2181",
+    "e-mail": "",
+    "servicos_prestados": {
+        "público-alvo": "Mulheres",
+        "acolhimento": "não",
+        "atividades": "Registro de B.O., investigação e acompanhamento de casos de violência contra a mulher."
+    },
+    "nome": "5ª Delegacia de Defesa da Mulher - DDM Leste",
+    "endereco": "Rua Doutor Coryntho Baldoíno Costa 400 2º andar Tatuapé São Paulo SP 03069070",
+    "telefone": "+55 11 2293-3816",
+    "e-mail": "",
+    "servicos_prestados": {
+        "público-alvo": "Mulheres",
+        "acolhimento": "não",
+        "atividades": "Registro de B.O., investigação e acompanhamento de casos de violência contra a mulher."
+    },
+    "nome": "6ª Delegacia de Defesa da Mulher - DDM Sul",
+    "endereco": "Rua Padre José de Anchieta 138 Santo Amaro São Paulo SP 04723001",
+    "telefone": "+55 11 5687-4004",
+    "e-mail": "",
+    "servicos_prestados": {
+        "público-alvo": "Mulheres",
+        "acolhimento": "não",
+        "atividades": "Registro de B.O., investigação e acompanhamento de casos de violência contra a mulher."
+    },
+    "nome": "7ª Delegacia de Defesa da Mulher - DDM Leste",
+    "endereco": "Rua Sabbado D'Ângelo Itaquera São Paulo SP 08210790",
+    "telefone": "+55 11 2071-4707",
+    "e-mail": "",
+    "servicos_prestados": {
+        "público-alvo": "Mulheres",
+        "acolhimento": "não",
+        "atividades": "Registro de B.O., investigação e acompanhamento de casos de violência contra a mulher."
+    },
+    "nome": "8ª Delegacia de Defesa da Mulher - DDM Leste",
+    "endereco": "Avenida Osvaldo Valle Cordeiro 190 Jardim Marília São Paulo SP 03584000",
+    "telefone": "+55 11 2742-1701",
+    "e-mail": "",
+    "servicos_prestados": {
+        "público-alvo": "Mulheres",
+        "acolhimento": "não",
+        "atividades": "Registro de B.O., investigação e acompanhamento de casos de violência contra a mulher."
+    },
+    "nome": "9ª Delegacia de Defesa da Mulher - DDM Oeste",
+    "endereco": "Avenida Menotti Laudísio 286 2º andar Jardim Cidade Pirituba São Paulo SP 02945-000",
+    "telefone": "+55 11 3976-2908",
+    "e-mail": "",
+    "servicos_prestados": {
+        "público-alvo": "Mulheres",
+        "acolhimento": "não",
+        "atividades": "Registro de B.O., investigação e acompanhamento de casos de violência contra a mulher."
+    },
+    "nome": "Delegacia de Crimes Raciais e Delitos de Intolerância - DECRADI",
+    "endereco": "Rua Brigadeiro Tobias 527 Centro Histórico de São Paulo São Paulo SP 01032001",
+    "telefone": "+55 11 3311-3300",
+    "e-mail": "",
+    "servicos_prestados": {
+        "público-alvo": "LGBTQIA+ e pessoas pretas",
+        "acolhimento": "não",
+        "atividades": "Registro de B.O., investigação e acompanhamento de casos de violência e crimes de violência contra LGBTQIA+ e pessoas pretas."
     }
 }
